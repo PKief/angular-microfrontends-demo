@@ -1,4 +1,4 @@
-# Angular Module Federation Demonstration
+# Angular Microfrontend Demonstration
 
 Based on:
 
